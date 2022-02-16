@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545405820 source:/home/masoud/Documents/mid term/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+
+1558612242 source:/home/masoud/Desktop/mid term/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+

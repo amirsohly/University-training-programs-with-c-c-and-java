@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\asus\documents\fact table\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553973502 source:c:\users\asus\documents\new folder\fact table\main.c
+	<stdio.h>
+	<conio.h>
+
